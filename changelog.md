@@ -1,4 +1,4 @@
-#Change Log
+#Change Log .
 
 Team membership:  Jim Ko (Captain) & Naman Sharma (Mate)  
 Team conventions: Allman notation, markdown for changelog  
